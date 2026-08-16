@@ -17,6 +17,7 @@ Retaining existing customers is significantly more cost-effective than acquiring
 ---
 ## 📁 Project Structure
 
+```text
 customer-churn-prediction/
 │
 ├── app/
@@ -44,11 +45,12 @@ customer-churn-prediction/
 │   └── 01.ipynb
 │
 └── README.md
+```
 ---
 
 ## Dataset
 
-- **Source:** Telco Customer Churn Dataset from kaggle
+- **Source:** Telco Customer Churn Dataset from Kaggle
 
 ---
 ## Technologies Used
