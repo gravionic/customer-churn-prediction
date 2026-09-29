@@ -99,7 +99,7 @@ Random Forest was selected as the final model because it provided the best balan
 - Model stability
 - Explainability using SHAP
 
-Although XGBoost achieved a slightly higher ROC-AUC, Random Forest produced a better overall balance across evaluation metrics and generated more stable predictions for this business problem. The project prioritizes recall because missing a genuine churner (false positive) can mean losing a customer, while false positive can be followed up with a retention offer.
+Although XGBoost achieved a slightly higher ROC-AUC, Random Forest produced a better overall balance across evaluation metrics and generated more stable predictions for this business problem. The project prioritizes recall because missing a genuine churner (false negative) can mean losing a customer, while a false positive can be followed up with a retention offer.
 
 ---
 
