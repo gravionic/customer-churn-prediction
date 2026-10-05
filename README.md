@@ -32,7 +32,9 @@ customer-churn-prediction/
 │
 ├── notebooks
 │
-└── README.md
+├── README.md
+│
+└── requirements
 ```
 ---
 
