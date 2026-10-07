@@ -41,7 +41,7 @@ customer-churn-prediction/
 
 ## Dataset
 
-- **Source:** Telco Customer Churn Dataset from Kaggle (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- **Source:** Telco Customer Churn Dataset (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 
