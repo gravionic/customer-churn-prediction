@@ -4,6 +4,7 @@
 
 Customer churn is one of the biggest challenges for subscription-based businesses. This project predicts whether a customer is likely to leave the company and explains each prediction using SHAP (Explainable AI). A Power BI dashboard provides business insights, while a Streamlit web application enables interactive predictions.
 
+Live Demo App: https://customer-churn-prediction-gravionic.streamlit.app/
 ---
 
 ## Business Problem
